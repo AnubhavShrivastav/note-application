@@ -1,0 +1,107 @@
+#man-working{
+    margin-top: 10%;
+    margin-left: 6%;
+}
+
+#tag-Line{
+    margin-left: 5%;
+    margin-top: 4%;
+}
+
+#info{
+    margin-left: 5%;
+    font-size: larger;
+    color: #808080;
+}
+
+#logo{
+    display: block;
+    margin-bottom: 10%;
+    position: absolute;
+    top: 5%;
+    padding-left: 62%;
+    margin-top: 10%;
+
+}
+
+#google-btn{
+    position: absolute;
+    top: 40%;
+    right: 19%;
+    width: 18%;
+    background-color: #F7685C;
+    color: white;
+    font-size: medium;
+    padding-bottom: 0.2%;
+    border-radius: 5px;
+    border: none;
+}
+
+#google-btn:hover{
+    background-color: #fc796d ;
+}
+
+#one{
+    position: absolute;
+    width: 4%;
+    right: 33%;
+    top: 50%;
+}
+
+#join{
+    position: absolute;
+    top: 47.5%;
+    right: 24%;
+    color: #A8A8B3;
+}
+
+#two{
+    width: 4%;
+    position: absolute;
+    top: 50%;
+    right: 19%;
+}
+
+#codeName{
+    margin-top: 1%;
+    position: absolute;
+    top: 55%;
+    right: 19%;
+    width: 17%;
+    height: 4%;
+    padding-left: 0.5%;
+    font-size: medium;
+    border-radius: 5px;
+}
+
+
+#btn-two{
+    position: absolute;
+    top: 67%;
+    right: 18.7%;
+    width: 18%;
+    background-color: #30C58D;
+    color: white;
+    border: none;
+    font-size: medium;
+    padding-bottom: 0.2%;
+    border-radius: 5px;
+}
+
+#btn-two:hover{
+    background-color: #49c897;
+}
+
+#l-logo{
+    display: block;
+    margin-top: 18%;
+    margin-bottom: 5%;
+    margin-left: 40%;
+    
+}
+
+
+#loader{
+    margin-top: 0.3%;
+    margin-left: 33%;
+}

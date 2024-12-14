@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+
+#D-logo{
+    display: block;
+    margin-top: 18%;
+    margin-bottom: 5%;
+    margin-left: 40%;
+    
+}
+
+#D-loader{
+    margin-top: 0.3%;
+    margin-left: 33%;
+}
